@@ -27,7 +27,7 @@
 
 **飞书云盘链接**：[世界模型学习资料](https://my.feishu.cn/drive/folder/RmhAfHyrhl6D4ndqZJkcxz3Qnsb)
 
-**目录结构**
+**目录结构**：
 
 - 📁 **机器学习**
   - 📁 1_监督学习
