@@ -19,7 +19,7 @@
    - **李飞飞版**：[Learn World Model](https://datawhalechina.github.io/learn-world-model/zh/lectures/lecture-01-internal-simulation/02-what-is-a-world-model)
    - **清华大学版（两大类）**：[Understanding World or Predicting Future? A Comprehensive Survey of World Models](https://arxiv.org/pdf/2411.14499)
    - **金白石版**：[世界模型(World Models)是什么？](https://www.zhihu.com/question/644725384/answer/2047581461201556141)
-5. **阅读论文**：深入相关论文进行精读与复现。
+5. **阅读论文**：深入相关论文，进行精读与复现。
 
 ---
 
@@ -27,7 +27,7 @@
 
 **飞书云盘链接**：[世界模型学习资料](https://my.feishu.cn/drive/folder/RmhAfHyrhl6D4ndqZJkcxz3Qnsb)
 
-**目录结构（下一层）**
+**目录结构**
 
 - 📁 **机器学习**
   - 📁 1_监督学习
