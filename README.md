@@ -17,8 +17,8 @@
 4. **了解世界模型**：对各个世界模型的经典工作有所了解，选定一个发力的方向：
    - **南洋理工版**：[Awesome-World-Model-for-Robotics-Policy](https://github.com/NTUMARS/Awesome-World-Model-for-Robotics-Policy)
    - **李飞飞版**：[Learn World Model](https://datawhalechina.github.io/learn-world-model/zh/lectures/lecture-01-internal-simulation/02-what-is-a-world-model)
-   - **清华大学版（两大类）**：[3746449.pdf](https://my.feishu.cn/drive/folder/RmhAfHyrhl6D4ndqZJkcxz3Qnsb) *(注：原稿为文件名，附上资料总链接)*
-   - **金白石版**：[知乎回答](https://www.zhihu.com/question/644725384/answer/2047581461201556141)
+   - **清华大学版（两大类）**：[Understanding World or Predicting Future? A Comprehensive Survey of World Models](https://arxiv.org/pdf/2411.14499)
+   - **金白石版**：[世界模型(World Models)是什么？](https://www.zhihu.com/question/644725384/answer/2047581461201556141)
 5. **阅读论文**：深入相关论文进行精读与复现。
 
 ---
