@@ -17,7 +17,7 @@
 4. **了解世界模型**：对各个世界模型的经典工作有所了解，选定一个发力的方向：
    - **南洋理工版**：[Awesome-World-Model-for-Robotics-Policy](https://github.com/NTUMARS/Awesome-World-Model-for-Robotics-Policy)
    - **李飞飞版**：[Learn World Model](https://datawhalechina.github.io/learn-world-model/zh/lectures/lecture-01-internal-simulation/02-what-is-a-world-model)
-   - **清华大学版（两大类）**：[Understanding World or Predicting Future? A Comprehensive Survey of World Models](https://arxiv.org/pdf/2411.14499)
+   - **清华大学版**：[Understanding World or Predicting Future? A Comprehensive Survey of World Models](https://arxiv.org/pdf/2411.14499)
    - **金白石版**：[世界模型(World Models)是什么？](https://www.zhihu.com/question/644725384/answer/2047581461201556141)
 5. **阅读论文**：深入相关论文，进行精读与复现。
 
@@ -42,3 +42,25 @@
   - 📁 2_相关领域论文
   - 📄 Study List
 - 📁 **其他资料**
+
+---
+
+## 🤝 反馈与贡献
+
+仓库中的资料为个人学习整理，如果发现问题或有补充建议：
+
+- 提交 **Issue** 说明具体位置与问题；
+- 或通过 GitHub 主页联系我。
+
+---
+
+## ⚠️ 免责声明
+
+本仓库内容仅供 **个人学习与交流** 使用。
+
+---
+
+<p align="center">
+  <i>Patience is key in life.</i><br/>
+  <i>如果这份资料对你有帮助，点一个 ⭐ 就是最大的鼓励。</i>
+</p>
